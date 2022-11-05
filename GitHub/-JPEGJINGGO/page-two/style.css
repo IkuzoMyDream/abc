@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #233142;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border: solid red;
+    color: white
+}
+
+.container .thumbnail img {
+    width: 30%;
+    border-radius: 20px;
+}
+.container .head {
+    text-align: center;
+}
+
+.lasud {
+    background-color: #d9d9d9;
+    width: 100%;
+    color: black
+}
+
+li {
+    list-style: none;
+}

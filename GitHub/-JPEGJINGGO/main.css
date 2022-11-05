@@ -1,0 +1,48 @@
+* {
+  color: #ebf7fd;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  /* border: solid #a5def1; */
+  border-radius: 30px;
+  width: 80%;
+  margin: auto;
+  border: solid blue;
+}
+
+img {
+  width: 20vw;
+  margin: auto;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #233142;
+}
+
+option {
+  color: black;
+}
+
+ul li {
+  margin: 0 10px;
+  display: inline;
+  list-style: none;
+}
+
+.bot{
+    height: 50px;
+}
+.bord {
+  margin: 15px;
+}
+.box {
+  height: 50vh;
+  border: solid rgb(81, 255, 0);
+}
+
+.top-box {
+  border: solid rgb(200, 255, 0);
+}
